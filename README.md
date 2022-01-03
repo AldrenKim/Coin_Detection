@@ -1,6 +1,6 @@
 # Coin_Detection using C#
 An Information Systems mini-project. 
-This mini-project doesn't use exisitng image processing library.
+This mini-project doesn't use existing image processing library.
 Filters.cs was coded by my Professor.
 Instead made my own Blob detection with help from one of Coding Train's guide.
 
